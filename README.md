@@ -37,11 +37,12 @@
   
 <h2>Problem Solving 👋</h2><br/>
      <span><a href="https://codeforces.com/profile/narouto_Dar_elSlAm">
-         <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"></a></span>                          
- 
-     <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
-         <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.png" width="100" height="60"></a></span>                          
- 
+         <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"/></a></span>     
+  <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
+         <img alt="Code forces" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.png" width="100" height="60"/></a></span>     
+   
+  
+
   
 <!---
 mohamed-cs/mohamed-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
