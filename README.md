@@ -1,5 +1,4 @@
-<h1>Hi there, I'm Mohamed Magdy 👋</h1>
-<br/>
+<h2>Hi there, I'm Mohamed Magdy 👋</h2><br/>
 <h2>I am a junior software engineer, passionate to try new things.</h2>
 <ul>
   <li>👀 I’m interested in Programming.</li>
