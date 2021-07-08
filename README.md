@@ -19,14 +19,13 @@
  <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png" alt="sql lite" width="50" height="50"/></span>
  <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="jupter notebooks" width="50" height="50"/></span>
  <span><img src="https://img.favpng.com/19/0/20/machine-learning-deep-learning-with-python-artificial-intelligence-png-favpng-qFCv7GVnQNDpErJCX6ukpSHLw.jpg" alt="Machine learning" width="50" height="50"/></span>
- <span><img src="https://cdn.icon-icons.com/icons2/2817/PNG/512/ai_artificial_intelligence_chip_technology_cpu_icon_179503.png" alt="Ai" width="50" height="50"/></span>
  <span><img src="https://camo.githubusercontent.com/7fa5cacd0da89c37ae8530efbbe92f2144af94b9b6270f4197b488f8b315eaae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39312f4f637469636f6e732d6d61726b2d6769746875622e737667" alt="Github" width="50" height="50"/></span>
  <span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="github" width="50" height="50"/> </span>
  <span><img src="https://img.icons8.com/color/50/000000/visual-studio-2019.png" alt="visual studio" width="50" height="50"/></span>
 <span> <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="visual studio code " width="50" height="50"/></span>
 
 <span><img src="https://image.flaticon.com/icons/png/512/901/901492.png" alt="statistics" width="50" height="50"/></span>
-<span><img src="https://image.flaticon.com/icons/png/512/901/901492.png" alt="arduino" width="50" height="50"/></span>
+<span><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png" alt="arduino" width="50" height="50"/></span>
 <h2>📫 How to reach me: <h2>
      <span><a href="mailto:mohamedmagdy142000@gmail.com">
          <img alt="Gmail" src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" width="60" height="60">  </a></span>
