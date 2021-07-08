@@ -26,6 +26,7 @@
 
 <span><img src="https://image.flaticon.com/icons/png/512/901/901492.png" alt="statistics" width="50" height="50"/></span>
 <span><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png" alt="arduino" width="50" height="50"/></span>
+
 <h2>📫 How to reach me: <h2>
      <span><a href="mailto:mohamedmagdy142000@gmail.com">
          <img alt="Gmail" src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" width="60" height="60">  </a></span>
