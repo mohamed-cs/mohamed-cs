@@ -8,7 +8,7 @@
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul>
 <h2>Languages and Skills:</h2>
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++"/>
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50/>
 - 📫 How to reach me mohamedmagdy142000@gmail.com 
 - 📫 How to reach me mohammed20191700567@cis.asu.edu.eg 
 
