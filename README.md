@@ -8,7 +8,7 @@
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul>
 <h2>Languages and Skills:</h2>
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" display=inline/>
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50"/>
  <img src="htps://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"alt="java" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" alt="android" width="50" height="50"/>
