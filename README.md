@@ -33,7 +33,15 @@
          <img alt="fcis mail" src="https://image.flaticon.com/icons/png/512/732/732095.png" width="60" height="60"></a></span>                          
    <span><a href="https://www.facebook.com/profile.php?id=100002737295707">
          <img alt="facebook" src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" width="60" height="60"></a></span>    
-  <span><a href="www.linkedin.com/in/mohamed-magdy-192413197"><img alt="Linkedin" src="https://image.similarpng.com/very-thumbnail/2021/01/Linkedin-icon-design-premium-vector-PNG.png" width="60" height="60"></a></span>    
+  <span><a href="www.linkedin.com/in/mohamed-magdy-192413197"><img alt="Linkedin" src="https://image.similarpng.com/very-thumbnail/2021/01/Linkedin-icon-design-premium-vector-PNG.png" width="60" height="60"></a></span> <br/>   
+  
+<h2>Problem Solving 👋</h2><br/>
+     <span><a href="https://codeforces.com/profile/narouto_Dar_elSlAm">
+         <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"></a></span>                          
+ 
+     <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
+         <img alt="Code forces" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"></a></span>                          
+ 
   
 <!---
 mohamed-cs/mohamed-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
