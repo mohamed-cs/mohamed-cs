@@ -8,8 +8,8 @@
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul>
 <h2>Languages and Skills:</h2>
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" display=inline/>
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50" display=inline />
+<span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" display=inline/> </span>
+<span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50" display=inline /> </span>
  <img src="htps://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"alt="java" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" alt="android" width="50" height="50"/>
  <img src="https://camo.githubusercontent.com/4941fcc9ec67c9140a88ae371985ae06d62e1cdfa781ebf342a77b27ca3a9d46/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d747a6d317477595f454e4d2f586c43527549305a6b52492f41414141414141414f736f2f426d4e4f55414e5857787763357677736c4e773357706a72446c67733950757751434c63424741735948512f73313630302f706173746564253242696d616765253242302e706e67" alt="android studio" width="50" height="50"/>
