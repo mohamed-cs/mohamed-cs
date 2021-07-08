@@ -10,7 +10,6 @@
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
 <span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50"  /> </span>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="50" height="50"/></span>
-<span> <img src="https://st4.depositphotos.com/18664664/23992/v/950/depositphotos_239923602-stock-illustration-object-oriented-programming-icon-trendy.jpg" alt="oop" width="50" height="50" /></span>
 <span> <img src="https://hackr.io/tutorials/data-structures-algorithms/logo-data-structures-algorithms.svg?ver=1587721467" alt="Datastructure" width="50" height="50" /> </span>
  <span><img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" alt="android" width="50" height="50"/></span>
  <span><img src="https://camo.githubusercontent.com/4941fcc9ec67c9140a88ae371985ae06d62e1cdfa781ebf342a77b27ca3a9d46/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d747a6d317477595f454e4d2f586c43527549305a6b52492f41414141414141414f736f2f426d4e4f55414e5857787763357677736c4e773357706a72446c67733950757751434c63424741735948512f73313630302f706173746564253242696d616765253242302e706e67" alt="android studio" width="50" height="50"/></span>
@@ -27,10 +26,17 @@
 <span> <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="visual studio code " width="50" height="50"/></span>
 
 <span><img src="https://image.flaticon.com/icons/png/512/901/901492.png" alt="statistics" width="50" height="50"/></span>
-<span><img src="https://image.flaticon.com/icons/png/512/901/901492.png" alt="probability" width="50" height="50"/></span>
 
-- 📫 How to reach me mohamedmagdy142000@gmail.com 
-- 📫 How to reach me mohammed20191700567@cis.asu.edu.eg 
+📫<h2 How to reach me: <h2>
+     <span><a href="mohamedmagdy142000@gmail.com">
+         <img alt="Gmail" src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667"
+         width="60" height="60">
+                               </a></span>
+     <span><a href="mohammed20191700567@cis.asu.edu.eg">
+         <img alt="Gmail" src="https://ums.asu.edu.eg/images/logo.png"
+         width="60" height="60">
+                               </a></span>                          
+                              
 
 <!---
 mohamed-cs/mohamed-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
