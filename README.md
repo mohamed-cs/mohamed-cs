@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Mohamed Magdy </h2><br/>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
-<div style="float:left;">
+<div style="float:left; width:200;">
 <ul>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
