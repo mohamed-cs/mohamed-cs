@@ -6,8 +6,8 @@
   <li>🌱 I’m currently learning Machine learning.</li>
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
-</ul>
-<img style="float:left;" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></span>
+</ul></span>
+<span><img style="float:left;" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></span>
 <br/>  
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
