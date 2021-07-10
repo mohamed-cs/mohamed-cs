@@ -8,7 +8,7 @@
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
 <!-- <div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div> -->
-<br/>  
+
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
 <span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50"  /> </span>
@@ -37,20 +37,19 @@
    <span><a href="https://www.facebook.com/profile.php?id=100002737295707">
          <img alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="60" height="60"></a></span>    
   <span><a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BZLlP9ZCQSqyuYf%2FuU0bsBg%3D%3D"><img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="60" height="60"></a></span>   
-  <span><a href="https://www.kaggle.com/mohamedmagdy1422"><img alt="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="60" height="60"></a></span>   <span><a href="https://www.hackerrank.com/mohamedmagdy1421?hr_r=1"><img alt="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" width="60" height="60"></a></span> <br/> 
+  <span><a href="https://www.kaggle.com/mohamedmagdy1422"><img alt="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="60" height="60"></a></span>   <span><a href="https://www.hackerrank.com/mohamedmagdy1421?hr_r=1"><img alt="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" width="60" height="60"></a></span> 
   
 <h2>Problem Solving 👋</h2><br/>
      <span><a href="https://codeforces.com/profile/narouto_Dar_elSlAm">
          <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"/></a></span>     
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
          <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"/></a></span>     
-  <h2 style="color:white;"> 📈 Stats:</h2> 
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&layout=Include All Commits&theme=radical&theicon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>   
   
-  <h2>🌟 Streak:</h2>
+    <h2>🌟 Streak:</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;">
-  
-  <h2>Most used langauage</h2>
+  <h2 style="color:white;"> 📈 Stats:</h2> 
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&layout=Include All Commits&theme=radical&theicon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>       
+  <h2>📚 Most used langauage</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github most used langauage" style="max-width:100%;" layout=compact/>
   
 
