@@ -48,7 +48,7 @@
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&layout=Include All Commits&theme=radical&theicon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>   
   
   <h2>🌟 Streak:</h2>
-  <img src=" " alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&theme=radical" style="max-width:100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;">
   
   <h2>Most used langauage</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github most used langauage" style="max-width:100%;" layout=compact/>
