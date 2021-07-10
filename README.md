@@ -7,7 +7,7 @@
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
-<div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div>
+<!-- <div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div> -->
 <br/>  
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
@@ -44,7 +44,12 @@
          <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"/></a></span>     
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
          <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"/></a></span>     
-   
+  <h2 style="color:white;"> 📈 Stats:</h2> 
+  <img alt="status" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+" width="100" height="60"/></a></span>     
+  
+  
+  
   
 
   
