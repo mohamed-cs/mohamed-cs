@@ -45,8 +45,7 @@
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
          <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"/></a></span>     
   <h2 style="color:white;"> 📈 Stats:</h2> 
-  <img alt="status" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-" width="100" height="60"/></a></span>     
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&theme=radical" width="100" height="60"/>   
   
   
   
