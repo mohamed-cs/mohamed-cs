@@ -47,7 +47,8 @@
   <h2 style="color:white;"> 📈 Stats:</h2> 
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>   
   
-  
+  <h2>🌟 Streak:</h2>
+  <img src="https://camo.githubusercontent.com/e98d4276b5d142864d52f7581befbc0ffcd81b3c6b3508267c4a9203d95b924e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f6d6172723435267468656d653d7261646963616c" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&theme=radical" style="max-width:100%;">
   
   
 
