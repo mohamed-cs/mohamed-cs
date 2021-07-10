@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Mohamed Magdy </h2><br/>
+<div style="margin:0 px"><h2>Hi there 👋, I'm Mohamed Magdy </h2></div>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
 <div style="float:left; width:200;">
 <ul>
