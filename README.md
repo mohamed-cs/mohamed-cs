@@ -4,7 +4,7 @@
 <br/>  
 <p><div>
 <ul>
-  <p><img style="align="right" " src="https://github.com/mohamed-cs/vector/blob/main/vector1.jpg?raw=true" width="300" "></p>
+  <p><img style="margin-bottom:10" align="right"  src="https://github.com/mohamed-cs/vector/blob/main/vector1.jpg?raw=true" width="300" "></p>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
