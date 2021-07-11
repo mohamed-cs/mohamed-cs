@@ -53,7 +53,7 @@
   <h2>🏆 Github Trophies:</h2>
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=mohamed-cs&theme=darkhub&amp;no-frame=true" style="max-width:100%;">  
   
-  <img alt="trophy" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="max-width:100%;">  
+  <img alt="trophy" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-cs&repo=github-readme-stats" style="max-width:100%;">  
   
  
 
