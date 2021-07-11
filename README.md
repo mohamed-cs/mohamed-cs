@@ -44,6 +44,15 @@
          <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"/></a></span>     
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
          <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"/></a></span>     
+<h2>🌟 Streak:</h2>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;"/>
+  <h2 style="color:white;"> 📈 Stats:</h2> 
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&layout=Include All Commits&theme=radical&theicon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>       
+  <h2>📚 Most used langauage</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github most used langauage" style="max-width:100%;" layout=compact/> 
+  <h2>🏆 Github Trophies:</h2>
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=mohamed-cs&theme=darkhub&amp;no-frame=true" style="max-width:100%;">  
+  
   
  
 
