@@ -1,8 +1,7 @@
-<div style="margin:0px"><h2>Hi there 👋, I'm Mohamed Magdy </h2></div>
-<p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p>
+<div style="margin:0px"><h2>Hi there 👋, I'm Mohamed Magdy </h2> <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p> </div>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
 <p><div style="float:left; width:100;">
-  <p><img align="right" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" width="150" "></p>
+  <p><img align="right" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" width="300" "></p>
 <ul>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
