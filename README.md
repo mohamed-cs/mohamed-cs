@@ -10,9 +10,7 @@
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
-</p>
-
-
+</p><br/>
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
 <span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50"  /> </span>
