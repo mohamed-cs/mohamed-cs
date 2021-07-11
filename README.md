@@ -1,8 +1,8 @@
 <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p>
 <h2>Hi there 👋, I'm Mohamed Magdy </h2> <br/>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
-<p><div style="float:left; width:100;">
-  
+<br/>  
+<p><div>
 <ul>
   <p><img style="margin:10px"align="right" src="https://github.com/mohamed-cs/vector/blob/main/vector1.jpg?raw=true" width="300" "></p>
   <li>👀 I’m interested in Programming.</li>
@@ -10,7 +10,7 @@
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
-</p><br/>
+</p>
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
 <span><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50"  /> </span>
