@@ -1,7 +1,8 @@
 <div style="margin:0px"><h2>Hi there 👋, I'm Mohamed Magdy </h2></div>
-<h2>I am a junior software engineer, passionate to try new things.</h2> 
 <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p>
+<h2>I am a junior software engineer, passionate to try new things.</h2> 
 <p><div style="float:left; width:100;">
+  <p><img align="right" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" width="150" "></p>
 <ul>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
@@ -9,7 +10,7 @@
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
 </p>
-<p style=" align-items: right"><div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div></p>
+
 
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
