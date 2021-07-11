@@ -1,13 +1,14 @@
 <div style="margin:0px"><h2>Hi there 👋, I'm Mohamed Magdy </h2></div>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
-<div style="float:left; width:100;">
+<p><div style="float:left; width:100;">
 <ul>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
   <li>📚 Studying Computer Science at FCIS - ASU year 2.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
-<!-- <div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div> -->
+</p>
+<p><div style="float:left; width:400px"><img  src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg" alt="vector" width="400" height="400" /></div></p>
 
 <h2>Languages and Skills:</h2>
 <span> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="50" /> </span>
@@ -53,7 +54,7 @@
   <h2>🏆 Github Trophies:</h2>
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=mohamed-cs&theme=darkhub&amp;no-frame=true" style="max-width:100%;">  
   
-  <img alt="trophy" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-cs&repo=github-readme-stats" style="max-width:100%;">  
+
   
  
 
