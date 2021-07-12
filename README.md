@@ -1,4 +1,4 @@
-<p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p>
+<p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" /></p>
 <h2>Hi there 👋, I'm Mohamed Magdy </h2> <br/>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
 <br/>  
