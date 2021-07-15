@@ -1,5 +1,5 @@
 <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="140" /></p>
-<p margin="10px"><img align="right" src="https://github.com/mohamed-cs/vector/blob/main/applai_log-removebg-preview.png" width="135"/></p>
+<p margin="10px"><img align="right" src="https://github.com/mohamed-cs/vector/blob/main/applai_log-removebg-preview.png?raw=true" width="135"/></p>
 <h2>Hi there 👋, I'm Mohamed Magdy </h2> <br/>
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
 <br/>  
