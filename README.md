@@ -46,9 +46,9 @@
   
 <h2>Problem Solving 👋</h2><br/>
      <span><a href="https://codeforces.com/profile/narouto_Dar_elSlAm">
-         <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="100" height="60"/></a></span>     
+         <img alt="Code forces" src="https://codeforces.org/s/85247/images/codeforces-logo-with-telegram.png" width="150" height="60"/></a></span>     
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
-         <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="100" height="60"/></a></span>     
+         <img alt="Hacker rank" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="150" height="60"/></a></span>     
 <h2>🌟 Streak:</h2>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;"/>
   <h2 style="color:white;"> 📈 Stats:</h2> 
