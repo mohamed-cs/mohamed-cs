@@ -2,8 +2,7 @@
 <p margin="10px"><a href="https://www.facebook.com/ApplAiasu"><img align="right" src="https://github.com/mohamed-cs/vector/blob/main/applai_log-removebg-preview.png?raw=true" width="135"/></a></p>
 <div>
 <h2>Hi there 👋, I'm Mohamed Magdy </h2> <br/>
-<!-- <img align="right" src="https://camo.githubusercontent.com/6d67cac15da439ebb8eb3a5f7271fb9257a1984a80c171c1b028a5371b7fc6ed/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d7a756d727564752d616e6b612e7a756d727564752d616e6b61" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-cs.visitor-badge" style="max-width: 100%;">
-</div> -->
+</div>
 <img src="https://camo.githubusercontent.com/49a264321f4cedfafeac76878fd2a927fdfed4704f96ac648b3aca6ad020efbe/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d33364243463746462663656e7465723d74727565267643656e7465723d74727565266c696e65733d436f6d70757465722b536369656e63652b53747564656e743b536f6674776172652b456e67696e6565723b436f6d70657469746976652b50726f6772616d6d65723b416c776179732b686176652b612b70617373696f6e2b666f722b636f64696e672b616e642b6c6561726e696e672663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?username=mohamed-cs&amp;color=36BCF7FF&amp;center=true&amp;vCenter=true&amp;lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;">
 
 <h2>I am a junior software engineer, passionate to try new things.</h2> 
