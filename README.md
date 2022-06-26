@@ -11,7 +11,7 @@
 
 <p><div>
 <ul>
-  <p><img style="margin-bottom:10" align="right"  src="https://github.com/mohamed-cs/vector/blob/main/vector1.jpg" width="400" height="400"></p>
+  <p><img style="margin-bottom:10" align="right"  src="https://github.com/mohamed-cs/vector/blob/main/vector1-removebg-preview.png" width="400" height="400"></p>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
   <li>📚 Studying Computer Science at FCIS - ASU year 3.</li>
