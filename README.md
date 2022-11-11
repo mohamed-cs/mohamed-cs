@@ -6,7 +6,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+......;This+is++Mohamed+Magdy;Computer+Science+Student;Software+Engineer;Data+Scientist;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning;Feel+Free+with+my+account)](https://git.io/typing-svg) -->
 <img src="https://camo.githubusercontent.com/49a264321f4cedfafeac76878fd2a927fdfed4704f96ac648b3aca6ad020efbe/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d33364243463746462663656e7465723d74727565267643656e7465723d74727565266c696e65733d436f6d70757465722b536369656e63652b53747564656e743b536f6674776172652b456e67696e6565723b436f6d70657469746976652b50726f6772616d6d65723b416c776179732b686176652b612b70617373696f6e2b666f722b636f64696e672b616e642b6c6561726e696e672663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?username=mohamed-cs&amp;color=36BCF7FF&amp;center=true&amp;vCenter=true&amp;lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;">
 
-<h2>I am a junior software engineer, passionate to try new things.</h2> 
+<h2>I am a junior Data Science, passionate to try new things.</h2> 
 <br/>  
 
 <p><div>
@@ -14,7 +14,7 @@
   <p><img style="margin-bottom:10" align="right"  src="https://github.com/mohamed-cs/vector/blob/main/vector1-removebg-preview.png" width="400" height="400"></p>
   <li>👀 I’m interested in Programming.</li>
   <li>🌱 I’m currently learning Machine learning.</li>
-  <li>📚 Studying Computer Science at FCIS - ASU year 3.</li>
+  <li>📚 Studying Computer Science at FCIS - ASU year 4.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
 </p>
