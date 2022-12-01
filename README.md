@@ -1,4 +1,4 @@
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](github-user-contribution.svg#gh-dark-mode-only)
 
 <p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="140" /></a></p>
 <p margin="10px"><a href="https://www.facebook.com/ApplAiasu"><img align="right" src="https://github.com/mohamed-cs/vector/blob/main/applai_log-removebg-preview.png?raw=true" width="135"/></a></p>
