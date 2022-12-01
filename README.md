@@ -1,5 +1,5 @@
 ![GitHub Snake dark](github-user-contribution.svg#gh-dark-mode-only)
-
+<a href="https://hits.sh/github.com/mohamed-cs/hits/"><img alt="Hits" src="https://hits.sh/github.com/mohamed-cs/hits.svg?label=Visitors&color=1072b3"/></a>
 <p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="140" /></a></p>
 <p margin="10px"><a href="https://www.facebook.com/ApplAiasu"><img align="right" src="https://github.com/mohamed-cs/vector/blob/main/applai_log-removebg-preview.png?raw=true" width="135"/></a></p>
 <div>
