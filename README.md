@@ -15,7 +15,7 @@
 <ul>
   <p><img style="margin-bottom:10" align="right"  src="https://github.com/mohamed-cs/vector/blob/main/vector1-removebg-preview.png" width="400" height="400"></p>
   <li>👀 I’m interested in Programming.</li>
-  <li>🌱 I’m currently learning Machine learning.</li>
+  <li>🌱 I’m currently learning Deep learning.</li>
   <li>📚 Bachelor of Computer and Information Science From Ain Shams University.</li>
   <li>📌 Lives in Cairo, Egypt.</li>
 </ul></div>
