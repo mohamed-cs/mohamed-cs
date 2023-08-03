@@ -54,9 +54,7 @@
   <span><a href="https://www.hackerrank.com/mohamedmagdy1421">
          <img alt="Hacker rank" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" width="150" height="60"/></a></span>     
 <h2>🌟 Streak:</h2>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;"/>
-  <h2 style="color:white;"> 📈 Stats:</h2> 
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mohamed-cs&show_icons=true&layout=Include All Commits&theme=radical&theicon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>       
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Streak" style="max-width:100%;"/>      
   <h2>📚 Most used langauage</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-cs&show_icons=true&theme=radical&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github most used langauage" style="max-width:100%;" layout=compact/> 
   <h2>🏆 Github Trophies:</h2>
