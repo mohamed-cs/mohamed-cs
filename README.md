@@ -228,8 +228,6 @@ Also a **certified instructor** with 2+ years teaching Power BI, Tableau, Excel,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-cs&layout=compact&theme=dark&bg_color=0B1F3A&title_color=C6A857&text_color=ffffff&border_color=C6A857)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamed-cs&theme=darkhub&no-frame=true&column=6)
-
 </div>
 
 ---
