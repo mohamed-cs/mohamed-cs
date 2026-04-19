@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="images/Personal_img.jpg" alt="Mohamed Magdy" width="120" style="border-radius:50%"/>
-
 # Mohamed Magdy
 ### Senior BI Engineer · Data Governance Consultant · Instructor
 
