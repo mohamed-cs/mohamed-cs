@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohamed-cs/My-Portfolio-/main/images/Personal_img.jpg" alt="Mohamed Magdy" width="130" style="border-radius:50%"/>
 
 # Mohamed Magdy
 ### Senior BI Engineer · Data Governance Consultant · Instructor
