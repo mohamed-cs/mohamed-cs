@@ -237,8 +237,6 @@ Also a **certified instructor** with 2+ years teaching Power BI, Tableau, Excel,
 | | |
 |---|---|
 | 📧 **Email** | [mohamedmagdy142000@gmail.com](mailto:mohamedmagdy142000@gmail.com) |
-| 📱 **Phone (KSA)** | +966 511 946 051 |
-| 📱 **Phone (EG)** | +20 115 452 4570 |
 | 💼 **LinkedIn** | [linkedin.com/in/mohamed-magdy-192413197](https://www.linkedin.com/in/mohamed-magdy-192413197) |
 | 🌐 **Portfolio** | [mohamed-cs.github.io/My-Portfolio-/](https://mohamed-cs.github.io/My-Portfolio-/) |
 | 📍 **Location** | Cairo, Egypt |
