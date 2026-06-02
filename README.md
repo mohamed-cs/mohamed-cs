@@ -126,7 +126,7 @@ Also a **certified instructor** with 2+ years teaching Power BI, Tableau, Excel,
 | Tableau Desktop Specialist | Tableau | ✅ Certified |
 | Diploma in Applied Data Science | WorldQuant University | ✅ Completed |
 | MSc Scientific Computing | Ain Shams University | 🔄 Ongoing |
-| BSc Computer & Information Science | Ain Shams University | ✅ 2019–2023 |
+| BSc Computer & Information Science | Ain Shams University | ✅ Completed |
 
 ---
 
